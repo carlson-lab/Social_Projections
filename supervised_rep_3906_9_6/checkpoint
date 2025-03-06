@@ -1,0 +1,2 @@
+model_checkpoint_path: "Default_sNMF.ckpt"
+all_model_checkpoint_paths: "Default_sNMF.ckpt"
